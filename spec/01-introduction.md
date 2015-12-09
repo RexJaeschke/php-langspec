@@ -1,3 +1,5 @@
+#Heading
+
 #Introduction
 This specification is intended to provide a complete and concise
 definition of the syntax and semantics of the PHP language, suitable for
