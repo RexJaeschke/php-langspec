@@ -1,5 +1,9 @@
 #Types
 
+##XXX
+
+ssssss
+
 ##General
 
 The meaning of a value is determined by its *type*. PHP's types are
