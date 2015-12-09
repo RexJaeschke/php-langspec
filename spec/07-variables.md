@@ -1,5 +1,7 @@
 #Variables
 
+##qqqqq
+
 ##General
 
 A *variable* is a named area of data storage that contains a PHP value. A variable is represented by a [VSlot](04-basic-concepts.md#general). A variable is created by [assigning a value](04-basic-concepts.md#assignment) to it.
